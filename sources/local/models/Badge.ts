@@ -12,7 +12,7 @@ export const Badge: Model = {
       label: 'Label',
       description: 'The text in the badge',
       required: true,
-      default: 'This is a badge',
+      default: 'This is a test',
       hidden: false,
       localized: false
     },
